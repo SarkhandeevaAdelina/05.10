@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "WPF — одна пластина",
+    "Projects": [
+      {
+        "Path": "Diffraction.WpfPrototype\\Diffraction.WpfPrototype.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
