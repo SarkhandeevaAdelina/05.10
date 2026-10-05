@@ -1,0 +1,12 @@
+D:\29.09 ENERGY\plate-diffraction-solver-codex-wpf-interface-draft\Diffraction.Core\bin\Debug\net472\Diffraction.Core.dll
+D:\29.09 ENERGY\plate-diffraction-solver-codex-wpf-interface-draft\Diffraction.Core\bin\Debug\net472\Diffraction.Core.pdb
+D:\29.09 ENERGY\plate-diffraction-solver-codex-wpf-interface-draft\Diffraction.Core\bin\Debug\net472\MathNet.Numerics.dll
+D:\29.09 ENERGY\plate-diffraction-solver-codex-wpf-interface-draft\Diffraction.Core\bin\Debug\net472\System.ValueTuple.dll
+D:\29.09 ENERGY\plate-diffraction-solver-codex-wpf-interface-draft\Diffraction.Core\obj\Debug\net472\Diffraction.Core.csproj.AssemblyReference.cache
+D:\29.09 ENERGY\plate-diffraction-solver-codex-wpf-interface-draft\Diffraction.Core\obj\Debug\net472\Diffraction.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\29.09 ENERGY\plate-diffraction-solver-codex-wpf-interface-draft\Diffraction.Core\obj\Debug\net472\Diffraction.Core.AssemblyInfoInputs.cache
+D:\29.09 ENERGY\plate-diffraction-solver-codex-wpf-interface-draft\Diffraction.Core\obj\Debug\net472\Diffraction.Core.AssemblyInfo.cs
+D:\29.09 ENERGY\plate-diffraction-solver-codex-wpf-interface-draft\Diffraction.Core\obj\Debug\net472\Diffraction.Core.csproj.CoreCompileInputs.cache
+D:\29.09 ENERGY\plate-diffraction-solver-codex-wpf-interface-draft\Diffraction.Core\obj\Debug\net472\Diffract.4F9CB907.Up2Date
+D:\29.09 ENERGY\plate-diffraction-solver-codex-wpf-interface-draft\Diffraction.Core\obj\Debug\net472\Diffraction.Core.dll
+D:\29.09 ENERGY\plate-diffraction-solver-codex-wpf-interface-draft\Diffraction.Core\obj\Debug\net472\Diffraction.Core.pdb
